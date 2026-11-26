@@ -3,8 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Vũ Quốc Linh
 - **Lớp:** CNTT1
-- **Link repository Pha1:** https://github.com/qwlinh/HN-KS26-CNTT1-PromptAI_HO2_Pha1_Pha2/blob/main/bai_lam_pha1.md
-
+- **Link repository Pha1:** https://github.com/qwlinh/HN-KS26-CNTT1-PromptAI_HO2_Pha1_Pha2/tree/main
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
 ## 4.1. Bảo vệ dữ liệu và chống ảo giác
